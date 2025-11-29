@@ -2,13 +2,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rawan+Hany....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="www.linkedin.com/in/rawan-hany-5150b6366" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://codeforces.com/profile/Rewan_Hany" title="codeforces Profile"><img width="22" src="images/codeforces.png"> HackerRank</a></code>
+  <code><a href="https://codeforces.com/profile/Rewan_Hany" title="codeforces Profile"><img width="22" src="images/codeforces.png"> codeforces</a></code>
 </h5>
 <br>
 <p align="center">
