@@ -48,7 +48,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rewanhany236&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rewanhany236" />
+``` :contentReference[oaicite:2]{index=2}
+
+
 
 <img align="center" src="https://streak-stats.demolab.com/?user=Rewanhany236&theme=dark" />
 
