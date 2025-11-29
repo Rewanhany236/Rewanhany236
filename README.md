@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
- Developer | Problem Solver | Competitive Programmer  
+ Problem Solver | Competitive Programmer  
 </h3>
 
 <h5 align="center">
