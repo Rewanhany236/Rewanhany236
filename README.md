@@ -49,9 +49,6 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Rewanhany236" />
-``` :contentReference[oaicite:2]{index=2}
-
-
 
 <img align="center" src="https://streak-stats.demolab.com/?user=Rewanhany236&theme=dark" />
 
