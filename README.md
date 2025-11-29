@@ -48,8 +48,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Rewanhany236&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rewanhany236&show_icons=true&count_private=true&theme=radical" />
+<img align="center" src="https://streak-stats.demolab.com/?user=Rewanhany236&theme=dark" />
 
 </p>
 
