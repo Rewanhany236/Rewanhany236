@@ -48,10 +48,6 @@
 
 ---
 
-</p>
-
----
-
 <h2 align="center">🚀 What I'm Currently Working On</h2>
 
 - 🔥 Developing clean OOP projects in C++  
