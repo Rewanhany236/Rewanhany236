@@ -48,13 +48,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rewanhany236" />
-
-<img align="center" src="https://streak-stats.demolab.com/?user=Rewanhany236&theme=dark" />
-
 </p>
 
 ---
